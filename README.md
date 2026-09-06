@@ -1,6 +1,7 @@
 
 
 
+
 # 🌐 My Portfolio
 
 Welcome to my personal portfolio website! This project was created as part of my **Web Technology coursework in the 3rd semester** to showcase my skills, projects, assignments, and learning journey in web development.
